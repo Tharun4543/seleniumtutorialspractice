@@ -38,7 +38,7 @@ driver.get("https://itera-qa.azurewebsites.net/home/automation")
 passwordvalue=driver.find_element(by=By.ID,value="password")
 classvalue=passwordvalue.get_attribute("class")
 print(classvalue)
-driver.close()'''
+driver.close()
 
 #get_attribute method with does not have value
 import time
@@ -52,4 +52,4 @@ driver.get("https://itera-qa.azurewebsites.net/home/automation")
 passwordvalue=driver.find_element(by=By.ID,value="password")
 classvalue=passwordvalue.get_attribute("name")
 print(classvalue)
-driver.close()
+driver.close()'''
