@@ -2,7 +2,7 @@
 import time
 
 #Tag with ID
-'''from selenium import webdriver
+from selenium import webdriver
 from selenium.webdriver.common.by import By
 
 driver=webdriver.Chrome()
@@ -48,7 +48,7 @@ driver.maximize_window()
 driver.get("https://www.facebook.com/login")
 driver.find_element(by=By.CSS_SELECTOR,value="input.inputtext[type=password]").send_keys("xyz")
 time.sleep(10)
-driver.close()'''
+driver.close()
 
 
 

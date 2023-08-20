@@ -2,7 +2,7 @@
    Hands on with scroll bar in browser
 '''
 import time
-import driver as driver
+#import driver as driver
 from  selenium import webdriver
 from selenium.webdriver import ActionChains
 from selenium.webdriver.common.by import By

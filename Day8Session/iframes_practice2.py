@@ -8,7 +8,7 @@
 '''
 import time
 
-import driver as driver
+#import driver as driver
 from  selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support import expected_conditions

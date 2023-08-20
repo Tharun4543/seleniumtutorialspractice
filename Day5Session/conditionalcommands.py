@@ -2,7 +2,7 @@
 '''
 is_displayed(to know whether the attribute is present or not in the application)
 is_enabled(to know whether the attribute takes input in the application)
-is-selected(this method suitable for radio buttons and checkboxes)
+is_selected(this method suitable for radio buttons and checkboxes)
 '''
 '''import time
 
